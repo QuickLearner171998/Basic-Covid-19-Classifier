@@ -1,5 +1,6 @@
 # Detecting COVID-19 in X-ray images with Keras
 
+This repository uses [Adrian Rosebrock's bog](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/) as reference.
 ## Disclaimer
 Due to very limited dataset(25 positive images) **the model is not meant to be a reliable COVID-19 diagnosis system, nor has it been professionally or academically vetted.** 
 
